@@ -11,11 +11,21 @@ published: true
 ---
 Como resultado de nuestro trabajo y el de nuestros colegas han aparecido algunas aplicaciones web que nos interesa promocionar:
 
-<strong>Monitor parlamentario</strong>
+<strong><a href="http://blog.congresointeractivo.org/wp-content/uploads/2015/09/logo1024.png"><img class="alignleft wp-image-259 size-thumbnail" src="http://blog.congresointeractivo.org/wp-content/uploads/2015/09/logo1024-150x150.png" alt="logo1024" width="150" height="150" /></a>Información para votantes</strong>
 
-Estamos desarrollando una nueva aplicación de monitoreo parlamentario con el apoyo de Poplus.org, Fundación Directorio Legislativo y Fundación Ciudadano Inteligente.
+Aplicación interactiva y entretenida que acerca a la ciudadanía información de cada candidato.
 
-Una versión preliminar puede verse en <a href="http://monitor.congresointeractivo.org">monitor.congresointeractivo.org</a>
+Puede verse en <a href="http://www.yoquierosaber.org">www.yoquierosaber.org</a>
+
+&nbsp;
+
+<strong><img class="alignleft wp-image-263 size-thumbnail" src="http://blog.congresointeractivo.org/wp-content/uploads/2014/01/captura-ci-150x150.png" alt="captura-ci" width="150" height="150" />Monitor parlamentario</strong>
+
+Aplicación de monitoreo parlamentario con el apoyo de Poplus.org, Fundación Directorio Legislativo y Fundación Ciudadano Inteligente.
+
+Acceder: <a href="http://monitor.congresointeractivo.org">monitor.congresointeractivo.org</a>
+
+&nbsp;
 
 <strong>LeyesComentadas</strong>
 

@@ -2,7 +2,7 @@
 ID: 254
 post_title: 'Yo Quiero Saber &#8211; Información Electoral'
 author: ciadmin
-post_date: 2015-09-24 18:39:34
+post_date: 2015-09-24 18:39:52
 post_excerpt: ""
 layout: post
 permalink: >
@@ -46,4 +46,4 @@ Mediante una alianza de periodistas, politólogos y organizaciones de la socieda
 <strong>En redes sociales:</strong>
 
 Twitter: <a href="https://twitter.com/YoQuieroSaberAR"><strong>@yoquierosaberAr</strong>
-</a>Facebook: <a href="http://www.facebook.com/YoQuieroSaber">www.facebook.com/YoQuieroSaber</a>
+</a>Facebook: <strong><a href="http://www.facebook.com/YoQuieroSaber">www.facebook.com/YoQuieroSaber</a></strong>

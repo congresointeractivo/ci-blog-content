@@ -2,7 +2,7 @@
 ID: 254
 post_title: 'Yo Quiero Saber &#8211; Información Electoral'
 author: ciadmin
-post_date: 2015-09-24 18:35:33
+post_date: 2015-09-24 18:36:45
 post_excerpt: ""
 layout: post
 permalink: >
@@ -27,7 +27,8 @@ Es un juego que mediante preguntas sobre ejes temáticos de la agenda política 
 
 <b>Yo Quiero Saber</b><span style="font-weight: 400;"> 2015 cuenta con la gran experiencia ya que en el 2011, la primera versión de Yo Quiero Saber, recibió 200.000 visitas únicas, y en 2013 para las elecciones legislativas en donde se desarrolló el proyecto Elegilegi que recibió 220.000 visitas únicas.</span>
 <h3><b></b><b>Resultado de Yo Quiero Saber</b></h3>
-<h3><span style="font-weight: 400;">La estrategia diseñada para llegar al ciudadano con alianza en medios, logró que un total de </span><b>18 medios en 11 días </b><span style="font-weight: 400;">que</span> <span style="font-weight: 400;">aportaran un tráfico de más de 1000 usuarios únicos cada uno, y que </span><b>más de 100 medios publicaran notas referidas a la aplicación</b><span style="font-weight: 400;"> y derivaran tráfico al sitio </span><i><span style="font-weight: 400;">yoquierosaber.org</span></i><span style="font-weight: 400;">, además de impulsar tracción en sus propios sitios.</span></h3>
+<span style="font-weight: 400;">La estrategia diseñada para llegar al ciudadano con alianza en medios, logró que un total de </span><b>18 medios en 11 días </b><span style="font-weight: 400;">que</span> <span style="font-weight: 400;">aportaran un tráfico de más de 1000 usuarios únicos cada uno, y que </span><b>más de 100 medios publicaran notas referidas a la aplicación</b><span style="font-weight: 400;"> y derivaran tráfico al sitio </span><i><span style="font-weight: 400;">yoquierosaber.org</span></i><span style="font-weight: 400;">, además de impulsar tracción en sus propios sitios.</span>
+
 <span style="font-weight: 400;">Radios y programas de televisión se hicieron eco de la aplicación, y en casos como </span><a href="https://twitter.com/YoQuieroSaberAR/status/628174042168733696"><span style="font-weight: 400;">el canal TN</span></a><span style="font-weight: 400;">, que durante el “prime time” matutino, mostró Yo Quiero Saber y sus funcionalidades.</span>
 
 <span style="font-weight: 400;">El impacto de la aplicación desarrollada también despertó el interés en la República Oriental del Uruguay que, pese a no contar con un proceso electoral en marcha, uno de los medios más conocidos </span><a href="http://www.elobservador.com.uy/un-juego-conocer-los-candidatos-argentinos-n666186"><span style="font-weight: 400;">elobservador.uy </span></a><span style="font-weight: 400;">insertó en su home, la aplicación YQS con los candidatos argentinos.</span>

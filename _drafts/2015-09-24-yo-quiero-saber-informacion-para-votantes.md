@@ -2,14 +2,14 @@
 ID: 254
 post_title: 'Yo Quiero Saber: Información para votantes'
 author: ciadmin
-post_date: 2015-09-24 18:41:32
+post_date: 2015-09-24 18:46:01
 post_excerpt: ""
 layout: post
 permalink: >
   http://blog.congresointeractivo.org/?p=254
 published: false
 ---
-En este 2015 estamos desarrollando un ambicioso proyecto para las Elecciones en Argentina. Una plataforma de Crowd-Sourcing con toda la info de los Candidatos y un juego interactivo, en conjunto con Open Knowledge Argentina y Datos Concepción, y el aporte de potentes socios del país, Chile e Inglaterra.
+En este 2015 estamos desarrollando un ambicioso proyecto para las Elecciones en Argentina. Una plataforma de Crowd-Sourcing con toda la info de los Candidatos y un juego interactivo, en conjunto con Open Knowledge Argentina y Datos Concepción, y el aporte de potentes socios del país, Chile e Inglaterra.<a href="http://blog.congresointeractivo.org/wp-content/uploads/2015/09/11709980_888734791175928_2389094240678006279_o-1.jpg"><img class="alignright size-full wp-image-258" src="http://blog.congresointeractivo.org/wp-content/uploads/2015/09/11709980_888734791175928_2389094240678006279_o-1.jpg" alt="11709980_888734791175928_2389094240678006279_o (1)" width="981" height="468" /></a>
 <h2><b>Yo Quiero Saber</b><span style="font-weight: 400;"> a quién votar.</span></h2>
 <strong>Yo Quiero Saber</strong> es una aplicación interactiva y entretenida que acerca a la ciudadanía información de cada candidato y sus posturas ante temas de la coyuntura actual, generando transparencia en la calidad de la información que se brinda al electorado.
 <h3><span style="font-weight: 400;"> </span><b></b><b>¿Qué es Yo Quiero Saber?</b></h3>

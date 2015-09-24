@@ -2,7 +2,7 @@
 ID: 254
 post_title: 'Yo Quiero Saber &#8211; Información Electoral'
 author: ciadmin
-post_date: 2015-09-24 18:37:03
+post_date: 2015-09-24 18:38:18
 post_excerpt: ""
 layout: post
 permalink: >
@@ -11,15 +11,13 @@ published: false
 ---
 En este 2015 estamos desarrollando un ambicioso proyecto para las Elecciones en Argentina. Una plataforma de Crowd-Sourcing con toda la info de los Candidatos y un juego interactivo, en conjunto con Open Knowledge Argentina y Datos Concepción, y el aporte de potentes socios del país, Chile e Inglaterra.
 <h2><b>Yo Quiero Saber</b><span style="font-weight: 400;"> a quién votar.</span></h2>
-<b>Yo Quiero Saber </b><span style="font-weight: 400;">es una aplicación interactiva y entretenida que acerca a la ciudadanía información de cada candidato y sus posturas ante temas de la coyuntura actual, generando transparencia en la calidad de la información que se brinda al electorado.</span>
+<strong>Yo Quiero Saber</strong> es una aplicación interactiva y entretenida que acerca a la ciudadanía información de cada candidato y sus posturas ante temas de la coyuntura actual, generando transparencia en la calidad de la información que se brinda al electorado.
 <h3><span style="font-weight: 400;"> </span><b></b><b>¿Qué es Yo Quiero Saber?</b></h3>
-&nbsp;
-
 Es un juego que mediante preguntas sobre ejes temáticos de la agenda política y respuestas, el usuario podrá divertirse y conocer a los candidatos de las elecciones 2015, además de obtener como resultado un porcentaje de afinidad a cada uno de ellos según sus opiniones y propuestas para el país.
 
-<span style="font-weight: 400;">Yo Quiero Saber trae información relevante sobre los candidatos a las elecciones presidenciales nacionales y sobre los candidatos a gobernador de la provincia de Buenos Aires, Tucumán, San Juan y Entre Ríos</span><span style="font-weight: 400;"> para que todos los ciudadanos puedan elegir a quien consideren adecuado para el futuro del país.</span>
+Yo Quiero Saber trae información relevante sobre los candidatos a las elecciones presidenciales nacionales y sobre los candidatos a gobernador de la provincia de Buenos Aires, Tucumán, San Juan y Entre Ríos para que todos los ciudadanos puedan elegir a quien consideren adecuado para el futuro del país.
 <h3><b></b><b>¿Cómo funciona Yo Quiero Saber?</b></h3>
-<span style="font-weight: 400;">Podés encontrar </span><b>Yo Quiero Saber</b><span style="font-weight: 400;"> en medios de comunicación e ingresando a la plataforma web </span><a href="http://www.yoquierosaber.org"><b>YoQuieroSaber.org </b></a><span style="font-weight: 400;">que mediante preguntas y respuestas acerca de los principales temas de la agenda política, el ciudadano conocerá sus similitudes y diferencias con cada uno de los candidatos.</span>
+Podés encontrar Yo Quiero Saber en medios de comunicación e ingresando a la plataforma web <a href="http://www.yoquierosaber.org">YoQuieroSaber.org </a>que mediante preguntas y respuestas acerca de los principales temas de la agenda política, el ciudadano conocerá sus similitudes y diferencias con cada uno de los candidatos.
 
 <span style="font-weight: 400;">Al finalizar el juego, podrás conocer el grado de afinidad con cada uno de los postulados a las PASO y compartirlo en redes sociales.</span>
 

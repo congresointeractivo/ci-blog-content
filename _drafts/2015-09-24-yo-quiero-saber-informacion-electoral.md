@@ -2,7 +2,7 @@
 ID: 254
 post_title: 'Yo Quiero Saber &#8211; Información Electoral'
 author: ciadmin
-post_date: 2015-09-24 18:34:02
+post_date: 2015-09-24 18:35:09
 post_excerpt: ""
 layout: post
 permalink: >
@@ -35,46 +35,19 @@ Es un juego que mediante preguntas sobre ejes temáticos de la agenda política 
 
 <span style="font-weight: 400;">El impacto de la aplicación desarrollada también despertó el interés en la República Oriental del Uruguay que, pese a no contar con un proceso electoral en marcha, uno de los medios más conocidos </span><a href="http://www.elobservador.com.uy/un-juego-conocer-los-candidatos-argentinos-n666186"><span style="font-weight: 400;">elobservador.uy </span></a><span style="font-weight: 400;">insertó en su home, la aplicación YQS con los candidatos argentinos.</span>
 
-<span style="font-weight: 400;">El promedio de tiempo de sesión de quienes visitaron la aplicación es de 4 minutos. Pero a su vez, si se descartan aquellos usuarios que se quedaron menos de 30 segundos, el tiempo de visita promedio por usuario se eleva a 10 minutos. </span>
-
-<strong></strong><strong> </strong>
+<span style="font-weight: 400;">El promedio de tiempo de sesión de quienes visitaron la aplicación es de 4 minutos. Pero a su vez, si se descartan aquellos usuarios que se quedaron menos de 30 segundos, el tiempo de visita promedio por usuario se eleva a 10 minutos.</span>
 
 <span style="font-weight: 400;">Luego de avanzar con las alianzas programadas, los medios de alcance nacional e internacional quedaron habilitados para embeber en sus medios de forma libre. </span>
 
 <span style="font-weight: 400;">Las cifras finales de </span><b> 370.000 </b><span style="font-weight: 400;">de usuarios únicos, </span><b>456.700</b><span style="font-weight: 400;"> sesiones y un total de Pageviews de </span><b>995.700 (14/08/2015)</b>
-
-<strong></strong><strong>
-
-</strong>
-
-&nbsp;
-<ul>
-	<li><b></b><b>¿Quiénes desarrollaron Yo Quiero Saber?</b></li>
-</ul>
-&nbsp;
-
-<strong></strong><strong> </strong>
-
+<h3><b></b><b>¿Quiénes desarrollaron Yo Quiero Saber?</b></h3>
 <span style="font-weight: 400;">Mediante una alianza de periodistas, politólogos y organizaciones de la sociedad civil como Directorio Legislativo, ACIJ, Acción Social Di Tella, Asociación Conciencia, We-Me, Open Knowledge Argentina, Datos Concepción, Congreso Interactivo y el apoyo de HackLabs, My Society, Ciudadano Inteligente y Taringa se desarrolló esta iniciativa que nos ayudará a conocer en profundidad la opinión de los candidatos y generar un electorado con conocimiento. </span>
 
 <strong></strong><strong> </strong>
 
-<b>Puede visitarnos </b><span style="font-weight: 400;">en </span><a href="http://yoquierosaber.org/"><span style="font-weight: 400;">Yo Quiero Saber</span></a><span style="font-weight: 400;"> y puede colaborar con información de los candidatos en </span><a href="http://investigacion.yoquierosaber.org/"><span style="font-weight: 400;">Yo Quiero Saber Investigación Colectiva </span></a>
-
-<strong></strong><strong> </strong>
+<b>Puede visitarnos </b><span style="font-weight: 400;">en </span><a href="http://yoquierosaber.org/"><span style="font-weight: 400;">Yo Quiero Saber</span></a><span style="font-weight: 400;"> y puede colaborar con información de los candidatos en </span><span style="font-weight: 400;"><a href="http://investigacion.yoquierosaber.org/">Yo Quiero Saber Investigación Colectiva</a></span>
 
 <b>En redes sociales:</b>
 
-<span style="font-weight: 400;">Twitter: </span><a href="https://twitter.com/YoQuieroSaberAR"><b>@yoquierosaberAr</b></a>
-
-<span style="font-weight: 400;">Facebook</span><a href="http://www.facebook.com/YoQuieroSaber"><span style="font-weight: 400;">: </span><b>www.facebook.com/YoQuieroSaber</b></a>
-
-<strong>
-
-
-
-
-
-
-
-</strong>
+<span style="font-weight: 400;">Twitter: </span><b><a href="https://twitter.com/YoQuieroSaberAR">@yoquierosaberAr
+</a></b><span style="font-weight: 400;">Facebook: </span><a href="http://www.facebook.com/YoQuieroSaber"><b>www.facebook.com/YoQuieroSaber</b></a>

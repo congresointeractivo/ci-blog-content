@@ -2,7 +2,7 @@
 ID: 254
 post_title: 'Yo Quiero Saber: Información para votantes'
 author: ciadmin
-post_date: 2015-09-24 18:46:01
+post_date: 2015-09-24 18:47:17
 post_excerpt: ""
 layout: post
 permalink: >
